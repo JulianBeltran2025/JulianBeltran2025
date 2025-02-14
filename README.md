@@ -7,5 +7,3 @@
 - 📫 How to reach me: Github
 - 😄 Pronouns: He
 - ⚡ Fun fact: My main hobby is to find solutions. I cannot see a problem without craving for a way out. 
-
-**JulianBeltran2025/JulianBeltran2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
